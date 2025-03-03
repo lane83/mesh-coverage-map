@@ -98,3 +98,7 @@ The system collects the following data points:
 - Node ID
 
 This data is processed and visualized to help you understand your mesh network's coverage area and identify potential gaps or weak spots in coverage.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
